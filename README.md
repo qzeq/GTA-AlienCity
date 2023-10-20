@@ -136,7 +136,7 @@ If you wish to just get to the free roam you can download a save file:
 </details>
 <details><summary>Mission 2 - Monster's Shaft (Protect Greedo)</summary>
      <pre>
-⚠️IMPORTANT: This mission may softlock after ending. Here's how to avoid it.
+⚠️IMPORTANT: This mission may softlock after ending. Here's how to avoid it.⚠️
   1. Press CTRL+SHIFT+ESC and right click on GTA_SA.exe
   2. Select "affinity" and untick every box except for "CPU 0".
   3. Open the games pause menu
