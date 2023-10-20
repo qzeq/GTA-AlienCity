@@ -8,7 +8,7 @@ The site is in portuguese so scroll down past the screenshots until you find the
 - Download the top one (554MB)
 - It should take you to mediafire.com
 ```
-⚠️ You will also need an **unmodded** copy of San Andreas. ⚠️
+⚠️You will also need an **unmodded** copy of San Andreas.⚠️
 
 ## 1. Installing the game
 ```
@@ -40,8 +40,8 @@ The site is in portuguese so scroll down past the screenshots until you find the
 See below for content warnings, fixes, notes and **a list of which missions won't work***<br>
 
 ## 3. Patching the game
-**WARNING:** ⚠️ This game contains porn and edgy humor. See below for fixes. ⚠️<br> 
-**IMPORTANT:** ⚠️ Updating CLEO _might_ break shit. ⚠️<br>
+**WARNING:** ⚠️This game contains porn and edgy humor. See below for fixes.⚠️<br> 
+**IMPORTANT:** ⚠️Updating CLEO _might_ break shit.⚠️<br>
   - The download page says it's exclusively CLEO 3
   - I updated it to 4.4.4 and nothing broke but who knows?
 ```
@@ -60,7 +60,7 @@ See below for content warnings, fixes, notes and **a list of which missions won'
       -Download https://gamemodding.com/en/gta-san-andreas/others/26842-mouse-fix.html
       -Open the folders inside the .zip file and drag mousefix.asi to your GTA San Andreas folder
 
-3.3. ⚠️ **WARNING FOR STREAMERS/YOUTUBERS** ⚠️
+3.3. ⚠️ WARNING FOR STREAMERS/YOUTUBERS ⚠️
       This game contains porn and edgy humor.
       To fix this, make a "skins" folder inside the modloader,
         and replace the following skins with any mods of your choosing:
@@ -136,7 +136,7 @@ If you wish to just get to the free roam you can download a save file:
 </details>
 <details><summary>Mission 2 - Monster's Shaft (Protect Greedo)</summary>
      <pre>
-⚠️ IMPORTANT: This mission may softlock after ending. Here's how to avoid it.
+⚠️IMPORTANT: This mission may softlock after ending. Here's how to avoid it.
   1. Press CTRL+SHIFT+ESC and right click on GTA_SA.exe
   2. Select "affinity" and untick every box except for "CPU 0".
   3. Open the games pause menu
